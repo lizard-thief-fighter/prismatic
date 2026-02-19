@@ -1,0 +1,13 @@
+name = "Diemant's Cherry Leaves"
+filename = "Diemant's Cherry Leaves 1.20-1.21.7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xpYvaizK/versions/fHk5QylA/Diemant%27s%20Cherry%20Leaves%201.20-1.21.7.zip"
+hash-format = "sha512"
+hash = "efc263867320cb89452eadcb9d8de54e26d7357430b5200b07824e8eba6ea091c620c282d171054ae2bd64b1b1ae7909d0e62b381f82c1b8084c3f0b4a7a33dd"
+
+[update]
+[update.modrinth]
+mod-id = "xpYvaizK"
+version = "fHk5QylA"

@@ -1,0 +1,13 @@
+name = "Simple Conveyor Belts"
+filename = "belts-fabric-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kNthsBTM/versions/KmJxCU15/belts-fabric-0.2.2.jar"
+hash-format = "sha512"
+hash = "48d8b86b037c10c4bc59bbfe9d8838c839c0d2ea5bbdb49a83d73ca227059ba5bccbf454e57e1114b030fb61fed6e8acf5d1a710db2c7585dc6aee69cd746641"
+
+[update]
+[update.modrinth]
+mod-id = "kNthsBTM"
+version = "KmJxCU15"

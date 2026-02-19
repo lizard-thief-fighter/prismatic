@@ -1,0 +1,13 @@
+name = "prismatic"
+author = "lizard_thief_fighter"
+version = "0.0a"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a141fc9b599ae1294d4671f6a14ef26f9eaffb7dc4ee2ad8bf307df0c3f59286"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"

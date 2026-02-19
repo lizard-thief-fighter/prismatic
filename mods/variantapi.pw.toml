@@ -1,0 +1,13 @@
+name = "VariantAPI"
+filename = "variantapi-1.4.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E4q8dYNM/versions/V6lsoIpm/variantapi-1.4.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "a15723bdaac3377b2f9cf130a8f3dd6c06080fbd02fd31c6c1a83e41f57afbf888cdb74b6d4c8596802db6cc89076297ffb9a521ef3fe54149c1d0aae8f924f0"
+
+[update]
+[update.modrinth]
+mod-id = "E4q8dYNM"
+version = "V6lsoIpm"

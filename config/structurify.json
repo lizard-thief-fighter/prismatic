@@ -1,0 +1,112 @@
+{
+  "config_version": "2.0.17",
+  "config_datetime": "2026-02-19_12-28-28",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "minecraft:igloo",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:igloo_dirt",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:mansion",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:pillager_outpost",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:swamp_hut",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:village_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_savanna",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_snowy",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "beard_thin"
+    }
+  ],
+  "structure_sets": [
+    {
+      "spacing": 40,
+      "separation": 15,
+      "name": "minecraft:ruined_portals",
+      "salt": 34222645,
+      "frequency": 0.499,
+      "override_global_spacing_and_separation_modifier": false,
+      "structure_weights": {
+        "minecraft:ruined_portal": 1,
+        "minecraft:ruined_portal_nether": 1,
+        "minecraft:ruined_portal_swamp": 1,
+        "minecraft:ruined_portal_mountain": 1,
+        "minecraft:ruined_portal_jungle": 1,
+        "minecraft:ruined_portal_ocean": 1,
+        "minecraft:ruined_portal_desert": 1
+      }
+    }
+  ]
+}

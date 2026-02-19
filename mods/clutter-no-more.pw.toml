@@ -1,0 +1,13 @@
+name = "Clutter No More"
+filename = "clutternomore-1.1.8+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ewyjbmG4/versions/8Yg5FnJp/clutternomore-1.1.8%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "7b93b2f8051e2ce6415835e6031b4d7568874fcbb5b3e263053e6a71499a1d3f9d254a054b1387ae316546eee60a60ad73967ce02432b9800f50405115a60287"
+
+[update]
+[update.modrinth]
+mod-id = "ewyjbmG4"
+version = "8Yg5FnJp"

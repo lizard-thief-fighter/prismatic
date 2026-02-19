@@ -1,0 +1,13 @@
+name = "Dye Textures Backport"
+filename = "Dyes-Backport-1.1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QEbXybEE/versions/XLombTbr/Dyes-Backport-1.1.1.zip"
+hash-format = "sha512"
+hash = "3074f2e7d8ffb06f8818d9ddb0df66ac3729056156332d2f414e9e5f15b837aa9992271c11bc9d3b45040bb714b8d5f136799e0482e33434ad65c243deb6d5d3"
+
+[update]
+[update.modrinth]
+mod-id = "QEbXybEE"
+version = "XLombTbr"

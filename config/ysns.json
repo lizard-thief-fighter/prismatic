@@ -1,0 +1,14 @@
+{
+  "blacklisted_entities": [
+    "minecraft:villager",
+    "minecraft:zombie_villager",
+    "minecraft:wandering_trader",
+    "minecraft:pillager",
+    "minecraft:vindicator",
+    "minecraft:evoker",
+    "minecraft:ravager",
+    "minecraft:witch",
+    "any_mod:example_entity",
+    "any_mod:another_example_entity"
+  ]
+}

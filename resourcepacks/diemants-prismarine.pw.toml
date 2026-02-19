@@ -1,0 +1,13 @@
+name = "Diemant's Prismarine"
+filename = "Diemant's Prismarine 1.21-1.21.7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Wha2JHX/versions/g5q8WBaB/Diemant%27s%20Prismarine%201.21-1.21.7.zip"
+hash-format = "sha512"
+hash = "c19ee4baea28f180c3987704c960f33db830605291728fb021a75aefa8b88ffaa054b0e314a5a87b355936d56613fa5688bfcfc434ac602e244b2b049109b55e"
+
+[update]
+[update.modrinth]
+mod-id = "4Wha2JHX"
+version = "g5q8WBaB"

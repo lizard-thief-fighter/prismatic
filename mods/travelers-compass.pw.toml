@@ -1,0 +1,13 @@
+name = "Traveler's Compass"
+filename = "travelerscompass-fabric-1.21.1-4.0.02.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WJLLirmC/versions/2RIP3JA2/travelerscompass-fabric-1.21.1-4.0.02.jar"
+hash-format = "sha512"
+hash = "f53e468734a3926c6010ffc0c8fa62f0da46cfc26040f84e64b45d6be2059dc621c59c99e25d32674247483cf436b0ac702851d3ca687730d7779e85dee804a0"
+
+[update]
+[update.modrinth]
+mod-id = "WJLLirmC"
+version = "2RIP3JA2"

@@ -1,0 +1,313 @@
+{
+  "config_version": "2.0.6a",
+  "config_datetime": "2026-01-13_08-13-14",
+  "general": {
+    "disable_all_structures": false,
+    "prevent_structure_overlap": false,
+    "enable_global_spacing_and_separation_modifier": false,
+    "global_spacing_and_separation_modifier": 1.0
+  },
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "minecraft:ancient_city",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "minecraft:bastion_remnant",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:buried_treasure",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:desert_pyramid",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:end_city",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:fortress",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:igloo",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:igloo_dirt",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:jungle_pyramid",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:mansion",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:mineshaft",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:mineshaft_mesa",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:monument",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ocean_ruin_cold",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ocean_ruin_warm",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:pillager_outpost",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:ruined_portal",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_mountain",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_nether",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_ocean",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:ruined_portal_swamp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:shipwreck",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:shipwreck_beached",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none",
+      "override_global_flatness_check": true,
+      "enable_flatness_check": false,
+      "flatness_check_allow_non_solid_blocks": false
+    },
+    {
+      "name": "minecraft:shipwreck_stone_ocean",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:stronghold",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "bury"
+    },
+    {
+      "name": "minecraft:swamp_hut",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "minecraft:trail_ruins",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "bury"
+    },
+    {
+      "name": "minecraft:trial_chambers",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "encapsulate"
+    },
+    {
+      "name": "minecraft:village_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_savanna",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_snowy",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "minecraft:village_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_decoration",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "clifftree:beached_treasure",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    },
+    {
+      "name": "clifftree:camel",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
+    }
+  ],
+  "structure_sets": []
+}

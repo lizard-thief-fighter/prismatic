@@ -1,0 +1,13 @@
+name = "Melancholic Hunger & HUD"
+filename = "melancholic_hunger-1.6-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iEhfOVYR/versions/jZWKWdkk/melancholic_hunger-1.6-1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "f50abce88eaa444dd0995f248e8bbeee44c7adf66e0a73d25648ea3ec8b31a4be132e74ee19953121ee15c740abc6bab583a83f006411f2995fd90ab050ef970"
+
+[update]
+[update.modrinth]
+mod-id = "iEhfOVYR"
+version = "jZWKWdkk"

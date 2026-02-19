@@ -1,0 +1,13 @@
+name = "Better Block Sounds Fork"
+filename = "bbsf-fabric-1.21.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZnMA9t3T/versions/EPbLp0bx/bbsf-fabric-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "3a46e123dce2be540a5ba9965e8eff907062552be720431c0cddd377af5e2b8320c8886b493a09a436572c3bf5f192c89cc98cfa045b36de57264b6f2a37afe2"
+
+[update]
+[update.modrinth]
+mod-id = "ZnMA9t3T"
+version = "EPbLp0bx"

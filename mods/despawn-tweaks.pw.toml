@@ -1,0 +1,13 @@
+name = "Despawn Tweaks"
+filename = "despawntweaks-fabric-1.0.0-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ahQrpeXp/versions/DhT841V9/despawntweaks-fabric-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "8198093bb203c5aa71dfa281e4c1874c2b2b45c0a3c95ba32e7f7ac6fb8054178d7ffe1f0af1b38f713c65adabfd9f5a61a4fa3cd5eb06968dded81dd2a3074d"
+
+[update]
+[update.modrinth]
+mod-id = "ahQrpeXp"
+version = "DhT841V9"

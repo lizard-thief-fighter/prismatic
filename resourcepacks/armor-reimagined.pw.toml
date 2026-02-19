@@ -1,0 +1,13 @@
+name = "Armor Reimagined"
+filename = "§bArmor§8-§bReimagined§0_§8[v1.1]§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gqNV9XUc/versions/pDidjKQc/%C2%A7bArmor%C2%A78-%C2%A7bReimagined%C2%A70_%C2%A78%5Bv1.1%5D%C2%A70.zip"
+hash-format = "sha512"
+hash = "7a731eb42848437f009282d9579b890899494c3de15ed23300863d277b6eed29e4fb0c403ed337738ee8b2ab7d066d621c7cf0607e06e435e3fc39ead0b05bbd"
+
+[update]
+[update.modrinth]
+mod-id = "gqNV9XUc"
+version = "pDidjKQc"
