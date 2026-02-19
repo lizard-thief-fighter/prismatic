@@ -32,7 +32,7 @@ some other changes:
 - *melancholic hunger and hud*: hunger has been removed because its boring
 - *structurify/ysns*: villagers have been removed because theyre boring
 - lots of little tweaks and additions :]
-- oh, and its' optimized to heck!
+- oh, and it's optimized to heck!
 
 bring your own shaders if you like!
 - make sure to install colorwheel for vanillin compatibility
