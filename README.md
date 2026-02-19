@@ -1,7 +1,7 @@
 # prismatic
-a colorful, curated, and clean modpack for minecraft 1.21.1.
-it won't hold or force your hand, nor jump in your face,
-engage with mods separately or together, and at your own pace!
+a colorful, curated, and clean modpack for minecraft 1.21.1.  
+it won't hold or force your hand, nor jump in your face,  
+engage with mods separately or together, and at your own pace!  
 
 ## a colorful world
 **prismatic** is built for social servers, with content for every color of player!
