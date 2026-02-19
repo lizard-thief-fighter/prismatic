@@ -1,6 +1,154 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e483dcd5eca97b4a92a44d3ad01b7fc394c46315dd5e47b378f3e71dc2396618"
+
+[[files]]
+file = "config/amendments-common.json"
+hash = "c39534c03b4847f7239f9d27f25ff19f40a1fafb358c0a1781e5477b2dc168c0"
+
+[[files]]
+file = "config/betterclouds-v1.json"
+hash = "97cb04c00614ba2e196c9608f28269eee199d86c78b22c00d4d0612fd2b230c4"
+
+[[files]]
+file = "config/betterdays-common.toml"
+hash = "e90261a334ba807ae70ebc0a688ba11fb8b80c44e1c503056726968a7258eef9"
+
+[[files]]
+file = "config/bountifulfares.json"
+hash = "d484fc7cf3bd3d1f5c60d8c2adb7991a8aec23d0caef31aaa16948c8ca49b472"
+
+[[files]]
+file = "config/crosshairs/1.png"
+hash = "716326173f96724c19eb990d196239545df6e63106d14a331b7dad43a93fc88e"
+
+[[files]]
+file = "config/dynamiccrosshair.json5"
+hash = "e8551593bed6641896bcbf4fbcc3f7a858220887b2a198cbe3a5b4950f79c2d8"
+
+[[files]]
+file = "config/emi.css"
+hash = "440329d0e63e46d4714f0984bceb69b870e9777306908968c7d95202d027f6e2"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "2516d219c3d439bfa704fd9e4686a29d3fb1b46ea65bc07c6f48cd4b764a4e6a"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "86c64f2a18b129fb55aaf914302e15c85c384b22df975d4db7484bea94dee41a"
+
+[[files]]
+file = "config/melancholic_hunger.json5"
+hash = "992f91658a1dd415b2db1bdddf5457bcae1257b39a72c1b963a75e8dd92c48a9"
+
+[[files]]
+file = "config/mob-ai-tweaks/blacklists/allay_weapons.txt"
+hash = "e71996ef3c593654785e734fa84904dff68caf20d20b7441e7e996d711f43a04"
+
+[[files]]
+file = "config/mob-ai-tweaks/blacklists/hostiles_that_can_sit.txt"
+hash = "10321a384ff8beb21c98e0c3cb90e13a0fb5a687745e9766ea4155c1e82c752d"
+
+[[files]]
+file = "config/mob-ai-tweaks/blacklists/modded_bows_and_crossbows.txt"
+hash = "7f5519e3906ac99c55cb9cd7e092b287acd0d1af4f52a405afa934f17f815ade"
+
+[[files]]
+file = "config/mob-ai-tweaks/general_config.txt"
+hash = "90daaf5de1f873cc4774896a9aa8741a2e6b76f5106a01c6b546661b1241d1ac"
+
+[[files]]
+file = "config/mob-ai-tweaks/ranged_mobs/mob_secondary_weapons.txt"
+hash = "e7b8fb6e8e48c6c4d8958a958a8fce095c939b4909683db753decf622b49b73e"
+
+[[files]]
+file = "config/mob-ai-tweaks/ranged_mobs/override_attack_intervals.txt"
+hash = "4a5569eac1c8787829dd6f10fc8bdca6fea3ff403cd8c12d6926a6c04cd49a98"
+
+[[files]]
+file = "config/mob-ai-tweaks/sniffer/item_to_biome.txt"
+hash = "4e1e41b190b4bfd0e22f727184168c0ad4fae23b005330c281f384e25ce8797c"
+
+[[files]]
+file = "config/mob-ai-tweaks/whitelists/seats_hostiles_can_escape.txt"
+hash = "b76af950b3308334127224428f7db8c144c3a82f6023b812610803589385af09"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "e90bffe0fbf9a33a86fb3f8601d73678d91229ffeec27b68b21c45aeb55ffaed"
+
+[[files]]
+file = "config/simplemenu.json5"
+hash = "20c5b5fbcbef786f56f6270980343f0b6f77a6b3f9ec370a7f5ff7eebd7e04d4"
+
+[[files]]
+file = "config/simplemenu/background/background.png"
+hash = "61db6a57c1b16aba12f18fd63b03f57ed1af40f584b8da1d5af21a6ec3da3935"
+
+[[files]]
+file = "config/simplemenu/icon/icon_16x16.png"
+hash = "e52d23c313dcb9d60b1061c635205213cb8d072061b7f17a92d2e7a7e40753e1"
+
+[[files]]
+file = "config/simplemenu/icon/icon_32x32.png"
+hash = "fc19da09e10cbb309ce359a21aa8748568b664e65c2b358a7efeb87529761ba5"
+
+[[files]]
+file = "config/simplemenu/logo/edition.png"
+hash = "2133bbe9b11fd209348bebe92c2dfa7c6ffd634ad98f52dac1ec852f9a66192a"
+
+[[files]]
+file = "config/simplemenu/logo/logo.png"
+hash = "9b9d0e609acafcd55c471e333d0805e95447e850c61d88aacd7e07f0cd8b2efa"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "3d843d89b2b7ef7e8d4971c982be5ed6d3d81967b9da088a2f435742c856cd6f"
+
+[[files]]
+file = "config/sodiumextras-client.toml"
+hash = "0038fd9fd527c0fe4bf358cd553d6a64357998072edf3f9be0bec1561e979e1d"
+
+[[files]]
+file = "config/structurify.json"
+hash = "a0fb78ba6914432218eef91be2059f53dffba715edd770d47ea23f3872f09e6d"
+
+[[files]]
+file = "config/structurify/structurify_backup_2026-01-13_08-27-22.json"
+hash = "b8348754017707854e1b15421482be70fc1e50efb2f3fdd318c6c72de7c63907"
+
+[[files]]
+file = "config/structurify/structurify_backup_2026-01-13_08-27-26.json"
+hash = "5b4e520d9c0d458d6f923679a60c54dd2bd45cf5797b3ed4909fbcd75e14979f"
+
+[[files]]
+file = "config/structurify/structurify_backup_2026-01-15_19-04-15.json"
+hash = "90a610ae33cb4fada91a858aca8e9e75153c2502ca7a0614c48a9dcc3618893f"
+
+[[files]]
+file = "config/structurify/structurify_backup_2026-01-15_19-05-14.json"
+hash = "7310fb95ab6b05d93962e0e7a071dc75e5fdb5f5eb2848aa9443433e0051270b"
+
+[[files]]
+file = "config/structurify/structurify_backup_2026-02-19_12-28-28.json"
+hash = "357690e72d26a6bd53c97f46e0961e3d319a9274556f736f7c9da9a9517ac538"
+
+[[files]]
+file = "config/terrastorage.toml"
+hash = "5ba23767c9330984deed283e45ef37d43b626eec689d49a0a3a5f29c5e47eac9"
+
+[[files]]
+file = "config/terrastorage_client.toml"
+hash = "ea894daac78767236b6eed6ac82644f59c59a57328e48e967934d7d68aed7fa1"
+
+[[files]]
+file = "config/ysns.json"
+hash = "43867656e5809c8a29e773ba688495959bffa4ffb6b0865fa734b1c767d3248d"
+
+[[files]]
 file = "mods/accessible-step.pw.toml"
 hash = "20dfa4ede92c19c2653e2bac8787b9e16c02aed9c6e2ac4abe690ae98a38df5b"
 metafile = true
@@ -751,6 +899,66 @@ hash = "0872e0697edfd6cada47815488d210c623ef6ba6aba17cfd271b4faa4af54439"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "2bac4c55862c5962f381b851ddb5c6119ee57a727624826526480ad90d3264e8"
+
+[[files]]
+file = "resourcepacks/Prismatic/assets/minecraft/texts/splashes.txt"
+hash = "f4f000c103cf322e2e5729a9777bb02ccebdf665577f4b473e8e94b0cef283ec"
+
+[[files]]
+file = "resourcepacks/Prismatic/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "d2a14dcca09982109cde61a47a57a117a9b8d691e50a3a430822c35e68983e5f"
+
+[[files]]
+file = "resourcepacks/Prismatic/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "d2a14dcca09982109cde61a47a57a117a9b8d691e50a3a430822c35e68983e5f"
+
+[[files]]
+file = "resourcepacks/Prismatic/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "d2a14dcca09982109cde61a47a57a117a9b8d691e50a3a430822c35e68983e5f"
+
+[[files]]
+file = "resourcepacks/Prismatic/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "d2a14dcca09982109cde61a47a57a117a9b8d691e50a3a430822c35e68983e5f"
+
+[[files]]
+file = "resourcepacks/Prismatic/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "d2a14dcca09982109cde61a47a57a117a9b8d691e50a3a430822c35e68983e5f"
+
+[[files]]
+file = "resourcepacks/Prismatic/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "d2a14dcca09982109cde61a47a57a117a9b8d691e50a3a430822c35e68983e5f"
+
+[[files]]
+file = "resourcepacks/Prismatic/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
+hash = "48191554e03090ac08e89c04de50a50c859adbf4f453ec66933f3ca4c8886c3d"
+
+[[files]]
+file = "resourcepacks/Prismatic/assets/minecraft/textures/gui/title/edition.png"
+hash = "6388ef2513e3a38cf4fe4236cfde7ac175a3538c5611b75508a44925bc0aaae2"
+
+[[files]]
+file = "resourcepacks/Prismatic/assets/minecraft/textures/gui/title/minceraft.png"
+hash = "228faeb32c91374e2ca8cce31aee24c76440c3c93117adae0271f906f161e1e7"
+
+[[files]]
+file = "resourcepacks/Prismatic/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "4a67eeeeebb98593ea7904201aa7f865db6a3df7de14f0c706852dfe95f0acaf"
+
+[[files]]
+file = "resourcepacks/Prismatic/assets/spectral-decorations/lang/en_us.json"
+hash = "088389705f3fc40f1894412db8edf702dbe482705dd6cca454d4ea6453f15ce0"
+
+[[files]]
+file = "resourcepacks/Prismatic/assets/spectrum/lang/en_us.json"
+hash = "4e4cae2b8b2f90af817d3b252d50e3b8344104ba0a2cd832b478d2d432d0228e"
+
+[[files]]
+file = "resourcepacks/Prismatic/pack.mcmeta"
+hash = "b90b493166c3d0093e3a3ef02cf58a56593dc01c53e437c7e6e4ee5bbccb8472"
+
+[[files]]
 file = "resourcepacks/armor-reimagined.pw.toml"
 hash = "3b3012840b2481a15c24750950aaad8a8fbea65321ec1cddd2639b0adf142d24"
 metafile = true
@@ -801,6 +1009,10 @@ hash = "88273a61b4ff94538d919604d031d79616e786153241e00363e39a1d4539876c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/greeny-grass-1.19.zip"
+hash = "0479aa7f420fc49ca60d43a78b3ee0d7c2ea8b9c714b52c4f51f743babacaefc"
+
+[[files]]
 file = "resourcepacks/serified-font.pw.toml"
 hash = "f0c8256be8502a337263dc0463e3dd95bfb82957c88e58c59647dbe42afcaf6b"
 metafile = true
@@ -819,3 +1031,7 @@ metafile = true
 file = "resourcepacks/truly-connected.pw.toml"
 hash = "67908e8c8eee52ec57f93bcc5dff7496281434efd28f67943f07bd66f994e282"
 metafile = true
+
+[[files]]
+file = "urls.txt"
+hash = "3216e4ed67b656fac9af5a59f278a534b1cfb7200f741d9f2c8464dca9d265a0"
