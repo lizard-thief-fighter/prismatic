@@ -54,7 +54,7 @@ Chromatic blocks and magic tools to assist and colorize building!
 Upgradeable, integrated multiblock forges for all your alloying needs.
 2. [Oritech](https://modrinth.com/mod/oritech)  
 Pretty, complex, and uncomplicated high-tech item processing.
-3. [Refined Storage](https://modrinth.com/mod/refined-storage) & [Terrastorage](https://modrinth.com/mod/terrastorage) 
+3. [Refined Storage](https://modrinth.com/mod/refined-storage) & [Terrastorage](https://modrinth.com/mod/terrastorage)  
 Manage items without losing your sanity!
 4. [Spectrum](https://modrinth.com/mod/spectrum)  
 Chromatic automation, resource generation, and wireless logistics.
@@ -73,4 +73,5 @@ Some advice for admins:
 - Run on Java 25 with these arguments:
   - -Xms8G -Xmx8G -XX:+UseZGC -XX:+UseCompactObjectHeaders
   - Why? [Read the manual](https://exa.y2k.diy/garden/jvm-args/).
+
 ### Feel free to email me or open an [issue](https://github.com/lizard-thief-fighter/prismatic/issues) with suggestions!
