@@ -5,7 +5,8 @@ for Minecraft 1.21.1 and Fabric 0.18.4.
 It won't hold your hand, nor jump in your face,  
 so you can have fun all at your own pace!  
 
-## A Colorful World
+## A colorful world awaits...
+
 **Prismatic** is built on the principle of content without clutter,  
 adding just enough to excite without requiring a wiki.  
 
@@ -13,6 +14,7 @@ Mods are integrated to reward engagement, but don't require it,
 so your adventure is up to *you*. That's Minecraft, isn't it?  
 
 ### Make play convenient!
+
 1. [Better Days](https://modrinth.com/mod/betterdays)  
 Days and nights last a full hour so you can get things done.
 2. [EMI](https://modrinth.com/mod/emi)  
@@ -26,13 +28,14 @@ Structures no longer clutter the world so your impact stands out.
 6. Extensive small tweaks and optimizations!
 
 ### Engage every color of player!  
+
 **Red** players are the adventuring type! they'll enjoy:
 1. [CliffBranch](https://modrinth.com/datapack/cliffbranch) & [Nightosphere](https://modrinth.com/datapack/nightosphere) & [Endercon](https://modrinth.com/datapack/endercon)  
 Gentle dimensional overhauls that make traversal and mining fun!
 2. [Mob AI Tweaks](https://modrinth.com/mod/mob-ai-tweaks)  
 New mob behaviors that surprise and challenge without being unfair.
 3. [Spectrum](https://modrinth.com/mod/spectrum)  
-Chromatic crafting of powerful items and many secrets to unearth.
+Chromatic crafting of powerful items and many secrets to unearth
 4. [Traveler's Compass](https://modrinth.com/mod/travelers-compass)  
 Search for any item or block so your journey is worthwhile.
 
@@ -57,6 +60,7 @@ Manage items without losing your sanity!
 Chromatic automation, resource generation, and wireless logistics.
 
 ## Notes
+
 Bring your own shaders if you like!
 1. Install Iris and Colorwheel for Vanillin compatibility.
 2. Remove Particle Rain and Wakes, as they don't play well with shaders.
@@ -69,5 +73,4 @@ Some advice for admins:
 - Run on Java 25 with these arguments:
   - -Xms8G -Xmx8G -XX:+UseZGC -XX:+UseCompactObjectHeaders
   - Why? [Read the manual](https://exa.y2k.diy/garden/jvm-args/).
-
 ### Feel free to email me or open an [issue](https://github.com/lizard-thief-fighter/prismatic/issues) with suggestions!
