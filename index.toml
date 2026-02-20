@@ -117,26 +117,6 @@ file = "config/structurify.json"
 hash = "a0fb78ba6914432218eef91be2059f53dffba715edd770d47ea23f3872f09e6d"
 
 [[files]]
-file = "config/structurify/structurify_backup_2026-01-13_08-27-22.json"
-hash = "b8348754017707854e1b15421482be70fc1e50efb2f3fdd318c6c72de7c63907"
-
-[[files]]
-file = "config/structurify/structurify_backup_2026-01-13_08-27-26.json"
-hash = "5b4e520d9c0d458d6f923679a60c54dd2bd45cf5797b3ed4909fbcd75e14979f"
-
-[[files]]
-file = "config/structurify/structurify_backup_2026-01-15_19-04-15.json"
-hash = "90a610ae33cb4fada91a858aca8e9e75153c2502ca7a0614c48a9dcc3618893f"
-
-[[files]]
-file = "config/structurify/structurify_backup_2026-01-15_19-05-14.json"
-hash = "7310fb95ab6b05d93962e0e7a071dc75e5fdb5f5eb2848aa9443433e0051270b"
-
-[[files]]
-file = "config/structurify/structurify_backup_2026-02-19_12-28-28.json"
-hash = "357690e72d26a6bd53c97f46e0961e3d319a9274556f736f7c9da9a9517ac538"
-
-[[files]]
 file = "config/terrastorage.toml"
 hash = "5ba23767c9330984deed283e45ef37d43b626eec689d49a0a3a5f29c5e47eac9"
 
