@@ -81,6 +81,10 @@ file = "config/notenoughanimations.json"
 hash = "e90bffe0fbf9a33a86fb3f8601d73678d91229ffeec27b68b21c45aeb55ffaed"
 
 [[files]]
+file = "config/oritech-config.json5"
+hash = "db6491dcfdb92b322b7ad31080a66f7717041ae7e860b7bd859e8078d9b375c6"
+
+[[files]]
 file = "config/simplemenu.json5"
 hash = "20c5b5fbcbef786f56f6270980343f0b6f77a6b3f9ec370a7f5ff7eebd7e04d4"
 
@@ -159,16 +163,6 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
-file = "mods/armor-visibility.pw.toml"
-hash = "6615a305456a77cfcca9bb2929dad783c8ccd992edde56f276f29ec15e122312"
-metafile = true
-
-[[files]]
-file = "mods/ash-api.pw.toml"
-hash = "7c147aa6a8497f8ebd1c341398a30c6479f2eaafe750aab7de6c2777ecc01422"
-metafile = true
-
-[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "4f20967ee66eb96cbcfaa63bea9d3424ac45b7db414c9a491f31c86012f34fb5"
 metafile = true
@@ -216,11 +210,6 @@ metafile = true
 [[files]]
 file = "mods/bountiful-fares.pw.toml"
 hash = "0e7436daf88b116f530fdf21bdc299d0ef7b4ee3c59a05fa1be20ef495523ba9"
-metafile = true
-
-[[files]]
-file = "mods/brainier-bees.pw.toml"
-hash = "cf67f01d257c4815590f6b6ed0351aed28eb907e2cc7a08d95c9f4d3eb76acc2"
 metafile = true
 
 [[files]]
@@ -875,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "2bac4c55862c5962f381b851ddb5c6119ee57a727624826526480ad90d3264e8"
+hash = "8d33801943f3923f98299e90bfb93378cdc62312368ba0fb83e30adbbb1a1814"
 
 [[files]]
 file = "resourcepacks/Prismatic/assets/minecraft/texts/splashes.txt"

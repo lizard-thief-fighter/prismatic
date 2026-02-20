@@ -1,46 +1,72 @@
-# prismatic
-a colorful, curated, and clean modpack for minecraft 1.21.1.  
-it won't hold or force your hand, nor jump in your face,  
+# Prismatic
+A colorful, curated, and clean Fabric modpack for Minecraft 1.21.1.  
+It won't hold or force your hand, nor jump in your face,  
 engage with mods separately or together, and at your own pace!  
 
-## a colorful world
-**prismatic** is built for social servers, with content for every color of player!
+## A Colorful World
+**Prismatic** is built on the principle of content without clutter,  
+adding just enough to excite without requiring a wiki.  
 
-**red** players are the adventuring type! they'll enjoy:
-- *spectrum*: prismatic magic with powerful items and many secrets
-- *mob ai tweaks*: surprising experienced players with new enemy behaviors
-- *cliffbranch/nightosphere/endercon*: gentle and fun dimensional overhauls
-- *traveler's compass*: making the journey worthwhile!
+Mods are integrated to reward engagement, but don't require it,  
+so your adventure is up to *you*. That's Minecraft, isn't it?  
 
-**green** players love to create and cultivate. they'll enjoy:
-- *spectrum*: prismatic magic to colorize and lumify the world
-- *bountiful fares*: expands farming with new crops and decorations
-- *flourishing fields*: bees and flowers unite!
-- *joy of painting/scholar*: for the writers and the artists <3
+It makes interacting with vanilla and modded content convenient with:
+- [Better Days](https://modrinth.com/mod/betterdays)
+  - Days and nights last a full hour so you can get things done.
+- [EMI](https://modrinth.com/mod/emi)
+  - Because looking at recipes is fun!
+- [Melancholic Hunger and HUD](https://modrinth.com/mod/melancholic_hunger)
+  - Hunger has been removed. No more meaningless tedium!
+  - Food slowly regenerates health to reward skillful play and diet variety.
+- [Structurify](https://modrinth.com/mod/structurify)/[You Shall Not Spawn!](https://modrinth.com/mod/you-shall-not-spawn)
+  - Villagers have been removed in favor of new systems. No more slavery in the block game!
+  - Structures no longer clutter the world, making your impact stand out.
+- And extensive small tweaks and optimizations!
+
+It's built for social servers, with content for every color of player!  
+
+**Red** players are the adventuring type! they'll enjoy:
+- [Spectrum](https://modrinth.com/mod/spectrum)
+  - Chromatic crafting of powerful items and many secrets to unearth.
+- [Mob AI Tweaks](https://modrinth.com/mod/mob-ai-tweaks)
+  - New mob behaviors that surprise and challenge without being unfair.
+  - [CliffBranch](https://modrinth.com/datapack/cliffbranch)/[Nightosphere](https://modrinth.com/datapack/nightosphere)/[Endercon](https://modrinth.com/datapack/endercon)
+  - Gentle dimensional overhauls that make traversal and mining fun!
+- [Traveler's Compass] 
+  - Search for any item or block so your journey is worthwhile.
+
+**Green** players love to create and cultivate. they'll enjoy:
+- [Spectrum](https://modrinth.com/mod/spectrum)
+  - Chromatic blocks and magic tools to assist and colorize building!
+- [Bountiful Fares](https://modrinth.com/mod/bountiful-fares)
+  - Expand your farm with considered new crops and decorations.
+- [Clutter No More](https://modrinth.com/mod/clutter-no-more)
+  - Swap between block shapes on the fly for fast and fun building.
+- [Joy of Painting](https://modrinth.com/mod/joy-of-painting)/[Scholar](https://modrinth.com/mod/scholar)
+  - For the writers and the artists. <3
  
-**blue** players are tinkerers and logisticians. they'll enjoy:
-- *spectrum*: prismatic magic for processing and logistics
-- *alloy forgery*: upgradeable, integrated, high-yield foundries
-- *oritech*: complex tech with simple mechanics
-- *refined storage*: sorting systems for humans
+**Blue** players are tinkerers and logisticians. they'll enjoy:
+- [Spectrum](https://modrinth.com/mod/spectrum)
+  - Chromatic automation, resource generation, and wireless logistics.
+- [Oritech](https://modrinth.com/mod/oritech)
+  - Pretty, complex, and uncomplicated high-tech item processing.
+- [Alloy Forgery](https://modrinth.com/mod/alloy-forgery)
+  - Upgradeable, integrated, multiblock forges for all your alloying needs.
+- [Terrastorage](https://modrinth.com/mod/terrastorage)/[Refined Storage](https://modrinth.com/mod/refined-storage) 
+  - Manage items without losing your sanity!
 
-## notes
-some other changes:
-- *clutter no more*: swap between and merge block shapes on the fly!
-- *terrastorage*: manage items without losing your sanity
-- *better days*: days and nights last a full hour so you can get things done
-- *melancholic hunger and hud*: hunger has been removed because its boring
-- *structurify/ysns*: villagers have been removed because theyre boring
-- lots of little tweaks and additions :]
-- oh, and it's optimized to heck!
+## Notes
+Bring your own shaders if you like!
+1. Install Iris and Colorwheel for Vanillin compatibility.
+2. Remove Particle Rain and Wakes, as they don't play well with shaders.
 
-bring your own shaders if you like!
-- make sure to install colorwheel for vanillin compatibility
-- remove particle rain and wakes
+Some advice for admins:
+- I recommend playing on hard!
+- Game rules won't affect your experience! Feel free to turn off Phantoms.
+- [Spectrum](https://modrinth.com/mod/spectrum) requires one find certain biomes to progress, so set a large world border.
+- Remove [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) from the pack if your players can't be trusted with them.
+- Run on Java 25 with these arguments:
+  - -Xms8G -Xmx8G -XX:+UseZGC -XX:+UseCompactObjectHeaders
+  - Why? [Read the manual](https://exa.y2k.diy/garden/jvm-args/).
 
-for admins
-- i recommend playing on hard, but adjust to your preferences
-- game rules don't matter: feel free to turn off phantoms
-- use a large world border, as spectrum requires finding certain biomes
-- remove chunk loaders if your players can't be trusted with them
-- run on java 25 with args: -XX:+UseZGC -XX:+UseCompactObjectHeaders
+Feel free to email me or open an [issue](https://github.com/lizard-thief-fighter/prismatic/issues) if you have questions or suggestions!
