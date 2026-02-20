@@ -44,7 +44,7 @@ Search for any item or block so your journey is worthwhile.
 Expand your farm with considered new crops and decorations.
 2. [Clutter No More](https://modrinth.com/mod/clutter-no-more)  
 Swap between block shapes on the fly for fast and fun building.
-3. [Joy of Painting](https://modrinth.com/mod/joy-of-painting)/[Scholar](https://modrinth.com/mod/scholar)  
+3. [Joy of Painting](https://modrinth.com/mod/joy-of-painting) & [Scholar](https://modrinth.com/mod/scholar)  
 For the writers and the artists. <3
 4. [Spectrum](https://modrinth.com/mod/spectrum)  
 Chromatic blocks and magic tools to assist and colorize building!
