@@ -30,7 +30,7 @@ Structures no longer clutter the world so your impact stands out.
 
 ### Engage every color of player!  
 
-**Red** players are the adventuring type! they'll enjoy:
+**Red** players are the adventuring type! They'll enjoy:
 1. [CliffBranch](https://modrinth.com/datapack/cliffbranch) & [Nightosphere](https://modrinth.com/datapack/nightosphere) & [Endercon](https://modrinth.com/datapack/endercon)  
 Gentle dimensional overhauls that make traversal and mining fun!
 2. [Mob AI Tweaks](https://modrinth.com/mod/mob-ai-tweaks)  
@@ -40,7 +40,7 @@ Chromatic crafting of powerful items and many secrets to unearth.
 4. [Traveler's Compass](https://modrinth.com/mod/travelers-compass)  
 Search for any item or block so your journey is worthwhile.
 
-**Green** players love to create and cultivate. they'll enjoy:
+**Green** players love to create and cultivate. They'll enjoy:
 1. [Bountiful Fares](https://modrinth.com/mod/bountiful-fares)  
 Expand your farm with considered new crops and decorations.
 2. [Clutter No More](https://modrinth.com/mod/clutter-no-more)  
@@ -50,7 +50,7 @@ For the writers and the artists. <3
 4. [Spectrum](https://modrinth.com/mod/spectrum)  
 Chromatic blocks and magic tools to assist and colorize building!
  
-**Blue** players are tinkerers and logisticians. they'll enjoy:
+**Blue** players are tinkerers and logisticians. They'll enjoy:
 1. [Alloy Forgery](https://modrinth.com/mod/alloy-forgery)  
 Upgradeable, integrated multiblock forges for all your alloying needs.
 2. [Oritech](https://modrinth.com/mod/oritech)  
