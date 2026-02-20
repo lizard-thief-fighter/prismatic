@@ -36,7 +36,7 @@ Gentle dimensional overhauls that make traversal and mining fun!
 2. [Mob AI Tweaks](https://modrinth.com/mod/mob-ai-tweaks)  
 New mob behaviors that surprise and challenge without being unfair.
 3. [Spectrum](https://modrinth.com/mod/spectrum)  
-Chromatic crafting of powerful items and many secrets to unearth
+Chromatic crafting of powerful items and many secrets to unearth.
 4. [Traveler's Compass](https://modrinth.com/mod/travelers-compass)  
 Search for any item or block so your journey is worthwhile.
 
