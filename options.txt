@@ -50,9 +50,9 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","moonlight:merged_pack","lambdabettergrass:default","file/ArtisanalDefault_v0.10.0.zip","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","file/Fancy Crops v1.3.zip","minecraft-cursor:cursors_extended","file/Serified Font v1.2.zip","file/cubic-sun-moon-v1.8.5.zip","continuity:default","file/§eTorches§8-§eReimagined§0_§8[v1.7.2]§0.zip","continuity:glass_pane_culling_fix","spectral-decorations:spectral_decorations","seamless:default_seamless","bountifulfares:vanilla_item_override","file/clutternomore","file/Connected Chains.zip","file/Fine Armoury v1.7.zip","file/§bArmor§8-§bReimagined§0_§8[v1.1]§0.zip","file/Simple Lower Grass Sides v1.1.0.zip","file/Diemant\u0027s Prismarine 1.21-1.21.7.zip","file/Diemant\u0027s Cherry Leaves 1.20-1.21.7.zip","file/Cozier Beds v1.1.zip","file/Truly Connected.zip","file/Fluffy Carpets v1.1.zip","file/vertical_fences_0.2.1.zip","file/Dyes-Backport-1.1.1.zip","file/Prismatic","file/Artisanal Nether Bricks v1.2.0.zip","file/greeny-grass-1.19.zip"]
+resourcePacks:["vanilla","fabric","moonlight:merged_pack","lambdabettergrass:default","file/ArtisanalDefault_v0.10.0.zip","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","file/Fancy Crops v1.3.zip","minecraft-cursor:cursors_extended","file/Serified Font v1.2.zip","file/cubic-sun-moon-v1.8.5.zip","continuity:default","file/§eTorches§8-§eReimagined§0_§8[v1.7.2]§0.zip","continuity:glass_pane_culling_fix","spectral-decorations:spectral_decorations","seamless:default_seamless","bountifulfares:vanilla_item_override","file/clutternomore","file/Fine Armoury v1.7.zip","file/§bArmor§8-§bReimagined§0_§8[v1.1]§0.zip","file/Simple Lower Grass Sides v1.1.0.zip","file/Diemant\u0027s Prismarine 1.21-1.21.7.zip","file/Diemant\u0027s Cherry Leaves 1.20-1.21.7.zip","file/Truly Connected.zip","file/Fluffy Carpets v1.1.zip","file/Dyes-Backport-1.1.1.zip","file/Prismatic","file/Artisanal Nether Bricks v1.2.0.zip","file/greeny-grass-1.19.zip"]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:99.108.222.173:13914
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
@@ -77,7 +77,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:true
