@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "e483dcd5eca97b4a92a44d3ad01b7fc394c46315dd5e47b378f3e71dc2396618"
+hash = "d518b8012d285a0f8d93c34e07e6627b7de14152ab880fc003b02ac64927878e"
 
 [[files]]
 file = "config/amendments-common.json"
