@@ -414,11 +414,6 @@ hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
 
 [[files]]
-file = "mods/flourishing-fields.pw.toml"
-hash = "79347f634daf55693153f96f0962101a795b338b132b61113c6f545cd6e22bc0"
-metafile = true
-
-[[files]]
 file = "mods/flw-vanillin.pw.toml"
 hash = "d0432b19479e39a125d5fa038766f21f72ae5ded133c576fa3c9235f583e4ed7"
 metafile = true
