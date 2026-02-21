@@ -1,6 +1,6 @@
 name = "Cerulean"
 filename = "cerulean-fabric-1.0.0-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dv57xmf9/versions/eVJq5HOt/cerulean-fabric-1.0.0-1.21.1.jar"
