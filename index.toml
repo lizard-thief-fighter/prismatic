@@ -5,6 +5,14 @@ file = "README.md"
 hash = "edd08fd39def0781b9e722d7e0879127fb7809b8dcf8fb99cdc89e9394e198db"
 
 [[files]]
+file = "config/Spectrum.json5"
+hash = "7d86c25e091541b8a0841f3aefc18ce4e17ae464a8040893c1b6aacf26242c37"
+
+[[files]]
+file = "config/accessible-step.json"
+hash = "9129479e06d716c14c0aa9c0db5b039013c6d272a60368ff85b0fad35709f99b"
+
+[[files]]
 file = "config/amendments-common.json"
 hash = "c39534c03b4847f7239f9d27f25ff19f40a1fafb358c0a1781e5477b2dc168c0"
 
@@ -22,7 +30,7 @@ hash = "d484fc7cf3bd3d1f5c60d8c2adb7991a8aec23d0caef31aaa16948c8ca49b472"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "a5fb6e46e60daa1f4cbd71a627c46160c35d25be01c2cfe75bbc884017da0d1c"
+hash = "a6f2137980376cbba20490d7ab2fece1f2cd0476c7fec10ce40e7eff0c1735be"
 
 [[files]]
 file = "config/crosshairs/1.png"
@@ -38,7 +46,7 @@ hash = "440329d0e63e46d4714f0984bceb69b870e9777306908968c7d95202d027f6e2"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "2516d219c3d439bfa704fd9e4686a29d3fb1b46ea65bc07c6f48cd4b764a4e6a"
+hash = "d11dd80b6590e6c33a5d832d6b55d1907aa3268d0f0243733cc0c58aabb63eae"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -119,6 +127,10 @@ hash = "3d843d89b2b7ef7e8d4971c982be5ed6d3d81967b9da088a2f435742c856cd6f"
 [[files]]
 file = "config/sodiumextras-client.toml"
 hash = "0038fd9fd527c0fe4bf358cd553d6a64357998072edf3f9be0bec1561e979e1d"
+
+[[files]]
+file = "config/spyglass-improvements/settings.json"
+hash = "abdeb7de0c32dce00c58cf1c36706143a30d12d17bbb070b447111e4258bf411"
 
 [[files]]
 file = "config/structurify.json"
@@ -853,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a3edd4a23d20a035efe04f5abb5d306a3f556f86bdc421d1304428e3b108d8e2"
+hash = "4d68eda2cd7b45a2d36e17bda95e224242768074c12449fd631a9fe877609cd7"
 
 [[files]]
 file = "resourcepacks/Prismatic/assets/minecraft/texts/splashes.txt"

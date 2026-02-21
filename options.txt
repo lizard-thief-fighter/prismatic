@@ -24,7 +24,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:12
+renderDistance:16
 simulationDistance:16
 screenEffectScale:1.0
 soundDevice:""
@@ -128,8 +128,6 @@ key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.accessiblestep.mode:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.unknown
-key_key.cavedust.toggle:key.keyboard.unknown
-key_key.cavedust.reload:key.keyboard.unknown
 key_chunkloaders.keys.open_screen:key.keyboard.unknown
 key_key.clutternomore.change_block_shape:key.keyboard.left.alt
 key_key.crawl:key.keyboard.x
@@ -146,7 +144,7 @@ key_key.oracle_index.search:key.keyboard.unknown
 key_key.oritech.augment_screen:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.presencefootsteps.toggle:key.keyboard.unknown
-key_key.raised.options:key.keyboard.unknown
+key_key.raised.options:key.keyboard.grave.accent
 key_key.refinedstorage.focus_search_bar:key.keyboard.tab
 key_key.refinedstorage.open_wireless_grid:key.keyboard.unknown
 key_key.refinedstorage.open_portable_grid:key.keyboard.unknown
@@ -158,7 +156,6 @@ key_key.scholar.export_book:key.keyboard.f7
 key_key.spyglass-improvements.use:key.keyboard.z
 key_terrastorage.keybinding.favorite_item_modifier:key.keyboard.left.alt
 key_terrastorage.keybinding.sort_inventory_bind:key.keyboard.unknown
-key_key.veil.editor:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.v
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.unknown

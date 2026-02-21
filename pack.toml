@@ -1,12 +1,12 @@
 name = "prismatic"
 author = "lizard_thief_fighter"
-version = "0.0g"
+version = "v0.0g"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "264b72f8c6a0a165fd301471fcc99768933be5628960e61c5ed8c9067feaa87a"
+hash = "29e5bf029d8450973bd5f5ef18d1760407a0235e658b57b41e9d15c068ca42c3"
 
 [versions]
 fabric = "0.18.4"
