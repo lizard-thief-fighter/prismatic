@@ -23,7 +23,8 @@
     "minecraft:shield",
     "!bountifulfares:.*cider.*",
     "!bountifulfares:.*wine.*",
-    "bountifulfares:mead_bottle"
+    "bountifulfares:mead_bottle",
+    "refinedstorage:silicon"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
