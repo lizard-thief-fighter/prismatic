@@ -12,7 +12,7 @@
 	"sizeXZ": 32.0,
 	"sizeY": 16.0,
 	"travelSpeed": 0.03,
-	"windEffectFactor": 1.0,
+	"windEffectFactor": 0.1,
 	"windSpeedFactor": 0.8,
 	"colorVariationFactor": 0.8,
 	"celestialBodyHalo": true,

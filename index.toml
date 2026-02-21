@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "8a430769d05e7d8a788a0c9343d18fd4773bb3975bc8f143eebc664e072fe72f"
+hash = "edd08fd39def0781b9e722d7e0879127fb7809b8dcf8fb99cdc89e9394e198db"
 
 [[files]]
 file = "config/amendments-common.json"
@@ -10,7 +10,7 @@ hash = "c39534c03b4847f7239f9d27f25ff19f40a1fafb358c0a1781e5477b2dc168c0"
 
 [[files]]
 file = "config/betterclouds-v1.json"
-hash = "97cb04c00614ba2e196c9608f28269eee199d86c78b22c00d4d0612fd2b230c4"
+hash = "1416586c50a9f4dcf7c8a95ce54ed0814031922bdbfc70d7af399000297615ee"
 
 [[files]]
 file = "config/betterdays-common.toml"
@@ -210,11 +210,6 @@ metafile = true
 [[files]]
 file = "mods/bountiful-fares.pw.toml"
 hash = "0e7436daf88b116f530fdf21bdc299d0ef7b4ee3c59a05fa1be20ef495523ba9"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
 metafile = true
 
 [[files]]
@@ -493,6 +488,11 @@ hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
 metafile = true
 
 [[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "35c9286e4ba744cca20c3f8c5c069880e9f6bf7364c6a3bdccf5a83ea7213e9e"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "f7cda152847b85f770b5130db1e1569b5b86ddf09d399377d7133365922a0e08"
 metafile = true
@@ -620,11 +620,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "7548976b015cdc8bfb7df92e09ff6744accd01ea722dcfd7f842d51bdeaf73a2"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "fa28010fe3ba32b1f3e9aed4c432c359ebc54cfbf03196961c66461597f4188c"
 metafile = true
 
 [[files]]
@@ -864,7 +859,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8d33801943f3923f98299e90bfb93378cdc62312368ba0fb83e30adbbb1a1814"
+hash = "a3edd4a23d20a035efe04f5abb5d306a3f556f86bdc421d1304428e3b108d8e2"
 
 [[files]]
 file = "resourcepacks/Prismatic/assets/minecraft/texts/splashes.txt"
@@ -995,7 +990,3 @@ metafile = true
 file = "resourcepacks/truly-connected.pw.toml"
 hash = "67908e8c8eee52ec57f93bcc5dff7496281434efd28f67943f07bd66f994e282"
 metafile = true
-
-[[files]]
-file = "urls.txt"
-hash = "3216e4ed67b656fac9af5a59f278a534b1cfb7200f741d9f2c8464dca9d265a0"
