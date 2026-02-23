@@ -1,0 +1,13 @@
+name = "Simple Baby Zombie Remover"
+filename = "simple_baby_zombie_remover-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/egSU6Mna/versions/dpRDnycK/simple_baby_zombie_remover-1.0.0.jar"
+hash-format = "sha512"
+hash = "389592d317818a08a3da784aa234675dfc4b7e2e0c9fbf6bd28388e64548c66d9f5d2c3c6428ccc9e30dfb3b1ce1bf99c72c81f6f0ace3130418edbf3830b18b"
+
+[update]
+[update.modrinth]
+mod-id = "egSU6Mna"
+version = "dpRDnycK"

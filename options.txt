@@ -127,7 +127,6 @@ key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.accessiblestep.mode:key.keyboard.unknown
-key_key.carry.desc:key.keyboard.unknown
 key_chunkloaders.keys.open_screen:key.keyboard.unknown
 key_key.clutternomore.change_block_shape:key.keyboard.left.alt
 key_key.crawl:key.keyboard.x
@@ -168,7 +167,7 @@ key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 soundCategory_master:0.5084592301324503
-soundCategory_music:0.5063086854460095
+soundCategory_music:0.7095070422535211
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:0.5080692488262909

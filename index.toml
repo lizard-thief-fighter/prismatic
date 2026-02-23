@@ -70,7 +70,7 @@ hash = "7f5519e3906ac99c55cb9cd7e092b287acd0d1af4f52a405afa934f17f815ade"
 
 [[files]]
 file = "config/mob-ai-tweaks/general_config.txt"
-hash = "90daaf5de1f873cc4774896a9aa8741a2e6b76f5106a01c6b546661b1241d1ac"
+hash = "44e6f685dc5b95dee434fa2ffd37380d6de075095951f87015db06ff27dbf1da"
 
 [[files]]
 file = "config/mob-ai-tweaks/ranged_mobs/mob_secondary_weapons.txt"
@@ -231,11 +231,6 @@ metafile = true
 [[files]]
 file = "mods/cammies-minecart-tweaks.pw.toml"
 hash = "2c6f788cb9abe582ccbbbdb552be75a2775879b7f173b830a05f6cc94c195aa8"
-metafile = true
-
-[[files]]
-file = "mods/carry-on.pw.toml"
-hash = "6a492387f6348192bcb9e2ee15f9be142100648ce60080a75f980185cb66ee13"
 metafile = true
 
 [[files]]
@@ -489,11 +484,6 @@ hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
 metafile = true
 
 [[files]]
-file = "mods/leaves-us-in-peace.pw.toml"
-hash = "247f2f64f89cfbe1d3c9ce3ff8de6e7091817fa225fbbf565a07193f7ea32ccc"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "f7cda152847b85f770b5130db1e1569b5b86ddf09d399377d7133365922a0e08"
 metafile = true
@@ -734,6 +724,11 @@ hash = "2c1656a534d23adfa2613f2eef5745149069d4a2f927a368cb95c9b5780b2552"
 metafile = true
 
 [[files]]
+file = "mods/simple-baby-zombie-remover.pw.toml"
+hash = "96e34191fe731c6a19124411f0510f80c7b17b68604582df6715927e801eb25f"
+metafile = true
+
+[[files]]
 file = "mods/simple-conveyor-belts.pw.toml"
 hash = "3990d42375cd215f43443e938f35415d1b510a30bd3462683f57e5f25b75e712"
 metafile = true
@@ -865,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4d68eda2cd7b45a2d36e17bda95e224242768074c12449fd631a9fe877609cd7"
+hash = "c74761fbd3c14b73d01949e7c491e17c8b93d684a953e8a95868e6124ee2b58a"
 
 [[files]]
 file = "resourcepacks/Prismatic/assets/minecraft/texts/splashes.txt"
