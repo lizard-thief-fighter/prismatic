@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "edd08fd39def0781b9e722d7e0879127fb7809b8dcf8fb99cdc89e9394e198db"
+hash = "370f4892373acbae76818318ca9e5ae4993b5f9e1ddb086f3cf70e1e5c1d8255"
 
 [[files]]
 file = "config/Spectrum.json5"
@@ -42,7 +42,7 @@ hash = "e8551593bed6641896bcbf4fbcc3f7a858220887b2a198cbe3a5b4950f79c2d8"
 
 [[files]]
 file = "config/emi.css"
-hash = "440329d0e63e46d4714f0984bceb69b870e9777306908968c7d95202d027f6e2"
+hash = "583b97c33aeec2d46f705963d43e26c5abaa43d532cfe3a84a62a9121eb7f5eb"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -89,8 +89,16 @@ file = "config/mob-ai-tweaks/whitelists/seats_hostiles_can_escape.txt"
 hash = "b76af950b3308334127224428f7db8c144c3a82f6023b812610803589385af09"
 
 [[files]]
+file = "config/mousewheelie.hjson"
+hash = "ebbf34ae5d8c509a12991f60848e625232f6c8921d67e960e0c896d935c03a77"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "e90bffe0fbf9a33a86fb3f8601d73678d91229ffeec27b68b21c45aeb55ffaed"
+
+[[files]]
+file = "config/oreharvester.json5"
+hash = "64e82c697eead98fac103fab4a719a2bf757257f9fdf99f9bf80519803182c2a"
 
 [[files]]
 file = "config/oritech-config.json5"
@@ -137,12 +145,8 @@ file = "config/structurify.json"
 hash = "a0fb78ba6914432218eef91be2059f53dffba715edd770d47ea23f3872f09e6d"
 
 [[files]]
-file = "config/terrastorage.toml"
-hash = "5ba23767c9330984deed283e45ef37d43b626eec689d49a0a3a5f29c5e47eac9"
-
-[[files]]
-file = "config/terrastorage_client.toml"
-hash = "ea894daac78767236b6eed6ac82644f59c59a57328e48e967934d7d68aed7fa1"
+file = "config/treeharvester.json5"
+hash = "7ec265c921efdd5a6cf32ffa12771db111997ee1a2ca7dab235a8291b150b582"
 
 [[files]]
 file = "config/ysns.json"
@@ -205,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
-hash = "f6e7c4ce9387487dd7214bfe5fc1c210500a67442cd1ef06183637efe82adc6c"
+hash = "98f900ff9f44bd7a27867c3e8e7757ea2b9cf3b9a11d0f567bea629103ddcf71"
 metafile = true
 
 [[files]]
@@ -660,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/ore-harvester.pw.toml"
-hash = "e48323d394418af426fa5bf31910e9a182734a6350a4f1c521bc4cb2733be4db"
+hash = "d24b63a488c7807499b18fe76eda1ecd3ad8b787ded557f9a6412dadc66ba4d4"
 metafile = true
 
 [[files]]
@@ -865,7 +869,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "f5b816b8de8c237a6a7b51fda8323627a995796589fc6934ed4cd15e7f40e55a"
+hash = "d5837bde6e12926d8649f6caaadf68a6f80e060ac164348d7ec5ec6555817165"
 metafile = true
 
 [[files]]
@@ -897,10 +901,6 @@ metafile = true
 file = "mods/you-shall-not-spawn.pw.toml"
 hash = "99bec6ddc2e920fdb5dfcb357125c4a438ed36e7ab6c63e59a967cb3bcf9331d"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "c74761fbd3c14b73d01949e7c491e17c8b93d684a953e8a95868e6124ee2b58a"
 
 [[files]]
 file = "resourcepacks/Prismatic/assets/minecraft/texts/splashes.txt"

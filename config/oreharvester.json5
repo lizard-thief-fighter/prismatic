@@ -1,6 +1,6 @@
 {
 	// If enabled, ore harvesting works when not holding the sneak button. If disabled it's reversed, and only works when sneaking.
-	"oreHarvestWithoutSneak": false,
+	"oreHarvestWithoutSneak": true,
 	// Whether all ore drops in a mined vein should drop at the first broken block's position.
 	"dropOresAtFirstBrokenBlock": true,
 	// With fuzzy search enabled, it uses a block's raw name to determine whether it's an ore block. Improves compatibility with other mods that have not set a block tag, but does create a small chance of a false positive.
