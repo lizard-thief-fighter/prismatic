@@ -1,0 +1,13 @@
+name = "Fishermen's Trap [Neo/Fabric]"
+filename = "fishermens_trap-Fabric-1.21.1-3.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ltRggnDx/versions/Ean0jTJ1/fishermens_trap-Fabric-1.21.1-3.1.0.jar"
+hash-format = "sha512"
+hash = "b0e7cb10fd54ae5fa96056770d18da815ff6efa7cda0ed4aee8995e6b649e721a5144b87c2d8fb5ac0d41ba1cba3e741f419af37fe596839043e1e722e17a9ac"
+
+[update]
+[update.modrinth]
+mod-id = "ltRggnDx"
+version = "Ean0jTJ1"

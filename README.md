@@ -55,7 +55,7 @@ Chromatic blocks and magic tools to assist and colorize building!
 Upgradeable, integrated multiblock forges for all your alloying needs.
 2. [Oritech](https://modrinth.com/mod/oritech)  
 Pretty, complex, and uncomplicated high-tech item processing.
-3. [Refined Storage](https://modrinth.com/mod/refined-storage) & [Terrastorage](https://modrinth.com/mod/terrastorage)  
+3. [Refined Storage](https://modrinth.com/mod/refined-storage)
 Manage items without losing your sanity!
 4. [Spectrum](https://modrinth.com/mod/spectrum)  
 Chromatic automation, resource generation, and wireless logistics.
@@ -68,9 +68,7 @@ Bring your own shaders if you like!
 
 Some advice for admins:
 - I recommend playing on hard!
-- Game rules won't affect your experience! Feel free to turn off Phantoms.
 - [Spectrum](https://modrinth.com/mod/spectrum) requires certain biomes to progress, so set a large world border.
-- Remove [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) from the pack if your players can't be trusted.
 - Run on Java 25 with these arguments:
   - -Xms8G -Xmx8G -XX:+UseZGC -XX:+UseCompactObjectHeaders
   - Why? [Read the manual](https://exa.y2k.diy/garden/jvm-args/).

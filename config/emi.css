@@ -76,7 +76,7 @@
 	/**
 	 * The unit to display fluids as.
 	 */
-	fluid-unit: liters;
+	fluid-unit: millibuckets;
 
 	/**
 	 * Whether to use the batched render system. Batching is faster, but may have
@@ -103,7 +103,7 @@
 	/**
 	 * Whether the EMI config button should be visible.
 	 */
-	emi-config-button-visibility: shown;
+	emi-config-button-visibility: auto;
 
 	/**
 	 * Whether the recipe tree button should be visible.
@@ -167,22 +167,22 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: none;
+	left-sidebar-pages: favorites;
 
 	/**
 	 * The subpanels in the left sidebar
 	 */
-	left-sidebar-subpanels: none;
+	left-sidebar-subpanels: lookup-history 5;
 
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
 	 */
-	left-sidebar-size: 12, 10;
+	left-sidebar-size: 10, 10;
 
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
 	 */
-	left-sidebar-margins: 20, 20, 20, 20;
+	left-sidebar-margins: 20, 10, 20, 20;
 
 	/**
 	 * Where to position the left sidebar
@@ -207,17 +207,17 @@
 	/**
 	 * The subpanels in the right sidebar
 	 */
-	right-sidebar-subpanels: favorites 2, lookup-history 2;
+	right-sidebar-subpanels: none;
 
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 12, 10;
+	right-sidebar-size: 10, 10;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
 	 */
-	right-sidebar-margins: 20, 20, 20, 5;
+	right-sidebar-margins: 20, 20, 20, 10;
 
 	/**
 	 * Where to position the right sidebar
@@ -338,7 +338,7 @@
 	 * Favorite the item to display on the side of the screen opposite of recipies for
 	 * quick access.
 	 */
-	favorite: "key.keyboard.a";
+	favorite: "key.keyboard.f";
 
 	/**
 	 * Set the default recipe for a given stack in the output of a recipe to that
